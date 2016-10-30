@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Richard X&#39;s Blog</title>
-  
+  <subtitle>花开堪折直须折</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://richardxyz.github.io/"/>

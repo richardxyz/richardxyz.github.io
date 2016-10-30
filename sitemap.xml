@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://richardxyz.github.io/about/index.html</loc>
+    
+    <lastmod>2016-10-19T12:27:13.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://richardxyz.github.io/tags/index.html</loc>
+    
+    <lastmod>2016-10-19T12:26:28.380Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://richardxyz.github.io/categories/index.html</loc>
+    
+    <lastmod>2016-10-19T12:25:46.275Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://richardxyz.github.io/2016/10/17/start-a-new-blog-journey/</loc>
     
     <lastmod>2016-10-17T15:16:03.737Z</lastmod>
